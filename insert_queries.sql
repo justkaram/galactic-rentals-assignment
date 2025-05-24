@@ -1,0 +1,11 @@
+USE galactic_rentals_db;
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('Alice Johnson', 'Imperial Officer', '2025-04-01 10:00:00', '2025-04-03 15:30:00', 25.0);
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('Bob Smith', 'Galaxy Explorer', '2025-04-02 9:15:00', '2025-04-05 11:00:00', 30.0);
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('Carol Lee', 'Time Traveler', '2025-04-05 14:45:00', '2025-04-06 16:00:00', 20.0);
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('Dave Martinez', 'Robot Droid', '2025-04-07 13:00:00', '2025-04-12 13:00:00', 28.5);
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('Eva Wang', 'Alien Monarch', '2025-04-10 12:10:00', '2025-04-11 18:20:00', 22.0);
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('Frank Davis', 'Imperial Officer', '2025-04-12 8:00:00', '2025-04-15 9:00:00', 25.0);
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('Grace Kim', 'Galaxy Explorer', '2025-04-15 10:20:00', '2025-04-17 12:35:00', 30.0);
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('Henry Brown', 'Robot Droid', '2025-04-18 11:00:00', '2025-04-19 14:15:00', 28.5);
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('Isabel Clark', 'Time Traveler', '2025-04-20 9:30:00', '2025-04-23 10:00:00', 20.0);
+INSERT INTO rentals (customer, costume, rent_date, return_date, daily_rate) VALUES ('John Doe', 'Alien Monarch', '2025-04-22 14:00:00', NULL, 22.0);
